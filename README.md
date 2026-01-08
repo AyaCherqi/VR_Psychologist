@@ -1,5 +1,10 @@
 # 🧠 AI Virtual Psychology Office (Unity + Convai)
 
+## Demo
+
+Uploading demo_VR.mp4…
+
+
 ## 📌 Project Overview
 
 This project is a **virtual psychology office** developed in **Unity**, featuring an **AI-powered psychologist NPC** using **Convai**.
