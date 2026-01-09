@@ -118,6 +118,7 @@ Project_VR
       ├─ Lighting
       ├─ Doors & Windows
       └─ Furniture and Props
+````
 
 ## ▶️ How to Use the `.unity` Scene
 
