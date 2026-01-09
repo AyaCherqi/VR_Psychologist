@@ -2,8 +2,7 @@
 
 ## Demo
 
-Uploading demo_VR.mp4…
-
+https://github.com/user-attachments/assets/c198d76c-5d5f-49f2-824a-fc98e8cd5a06
 
 ## 📌 Project Overview
 
@@ -74,8 +73,6 @@ All AI behavior is configured directly inside **Convai**, including:
 - Emotional behavior
 - Knowledge Bank content
 
-No additional AI logic is implemented in Unity scripts.
-
 ---
 
 ## 🏠 Environment
@@ -83,26 +80,41 @@ No additional AI logic is implemented in Unity scripts.
 - The scene uses the **Apartment Kit** from the Unity Asset Store
 - The apartment represents a **therapy office**
 - Environment assets are static and used only for immersion
-- No interaction scripts were added to environment objects
 
 ---
 
 ## 📁 Project Structure
 
 ```text
-Assets/
-├─ Convai/
-│  ├─ Art/
-│  ├─ Configuration/
-│  ├─ ConvaiXR/
-│  ├─ Demo/
-│  │  └─ Scenes/
-│  └─ Scripts/
-├─ Scenes/
-│  └─ MainScene.unity
-├─ StreamingAssets/
-│  ├─ BehaviorAssets/
-│  └─ Oculus/
-├─ XR/
-├─ Resources/
-└─ Settings/
+Project_VR
+├─ CONVAI DEMO – ALL FEATURES
+│
+├─ Convai Essentials
+│  ├─ Convai Player Character
+│  │  └─ Camera
+│  ├─ Convai Input Manager
+│
+├─ UI
+│  ├─ Convai Transcript UI
+│  ├─ Convai Settings Panel
+│  ├─ Convai Notification System
+│  ├─ Convai Canvas
+│  └─ EventSystem
+│
+├─ NPC to Player Interaction
+│  └─ Convai NPC Amelia
+│     └─ Convai NPC (Script)
+│        ├─ Character ID (Psychologist – psy)
+│        ├─ Audio / Voice Output
+│        └─ Lip Sync & Animations
+│
+├─ Environment
+   ├─ Directional Light
+   ├─ Ground
+   └─ Apartment_03
+      ├─ Walls
+      ├─ Floors
+      ├─ Ceiling
+      ├─ Lighting
+      ├─ Doors & Windows
+      └─ Furniture and Props
