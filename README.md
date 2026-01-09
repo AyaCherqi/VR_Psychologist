@@ -28,11 +28,8 @@ All AI behavior, speech, and interaction logic is handled **entirely by Convai**
 ## ✨ Key Features
 
 - 🧑‍⚕️ AI Psychologist NPC  
-- 🎙️ Speech-to-Text (STT) using Convai  
-- 🔊 Text-to-Speech (TTS) using Convai  
 - 💬 Real-time conversational interaction  
-- 🧠 Knowledge-driven responses (Convai Knowledge Bank)  
-- 🎭 Animated avatar with lip-sync  
+- 🧠 Knowledge-driven responses (Convai Knowledge Bank)   
 - 🏠 Realistic apartment environment  
 
 ---
@@ -63,3 +60,49 @@ All AI behavior, speech, and interaction logic is handled **entirely by Convai**
 2. Copy the **Character ID**
 3. In Unity, select the **Convai NPC** object
 4. Paste the Character ID into:
+5. Assign the Convai API key in the configuration asset
+
+---
+
+## 🧠 AI Behavior Configuration
+
+All AI behavior is configured directly inside **Convai**, including:
+
+- Character description (role as a psychologist)
+- Speaking style and tone
+- Personality traits
+- Emotional behavior
+- Knowledge Bank content
+
+No additional AI logic is implemented in Unity scripts.
+
+---
+
+## 🏠 Environment
+
+- The scene uses the **Apartment Kit** from the Unity Asset Store
+- The apartment represents a **therapy office**
+- Environment assets are static and used only for immersion
+- No interaction scripts were added to environment objects
+
+---
+
+## 📁 Project Structure
+
+```text
+Assets/
+├─ Convai/
+│  ├─ Art/
+│  ├─ Configuration/
+│  ├─ ConvaiXR/
+│  ├─ Demo/
+│  │  └─ Scenes/
+│  └─ Scripts/
+├─ Scenes/
+│  └─ MainScene.unity
+├─ StreamingAssets/
+│  ├─ BehaviorAssets/
+│  └─ Oculus/
+├─ XR/
+├─ Resources/
+└─ Settings/
