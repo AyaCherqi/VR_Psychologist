@@ -118,3 +118,249 @@ Project_VR
       ├─ Lighting
       ├─ Doors & Windows
       └─ Furniture and Props
+
+## ▶️ How to Use the `.unity` Scene
+
+### Requirements
+- Unity Hub  
+- Unity **2020.3+** or **Unity 6.x**
+- Convai account
+- Convai **API Key**
+- Convai **Unity Verified Solution** plugin
+
+---
+
+### Open the Project
+```bash
+git clone https://github.com/your-username/your-repo.git
+Open Unity Hub
+
+Click Open
+
+Select the project root folder (not the .unity file)
+
+Open the Scene
+Copier le code
+Assets/Convai/Demo/Scenes
+Double-click the .unity scene file.
+
+Convai Setup
+Go to:
+
+Copier le code
+Convai → Project Settings
+Paste your API Key
+
+Select Convai NPC Amelia
+
+In Convai NPC (Script):
+
+Paste your Character ID
+
+Play
+Connect a microphone
+
+Click ▶ Play
+
+Speak to the psychologist NPC
+
+Notes
+Uses Convai only (no custom LLM or RAG)
+
+One avatar: Psychologist (Amelia)
+
+Environment: Apartment Kit (Asset Store)
+
+Copier le code
+
+
+
+
+
+
+
+## ▶️ How to Use the `.unity` Scene
+
+### Requirements
+- Unity Hub  
+- Unity **2020.3+** or **Unity 6.x**
+- Convai account
+- Convai **API Key**
+- Convai **Unity Verified Solution** plugin
+
+---
+
+### Open the Project
+```bash
+git clone https://github.com/your-username/your-repo.git
+Open Unity Hub
+
+Click Open
+
+Select the project root folder (not the .unity file)
+
+Open the Scene
+Copier le code
+Assets/Convai/Demo/Scenes
+Double-click the .unity scene file.
+
+Convai Setup
+Go to:
+
+Copier le code
+Convai → Project Settings
+Paste your API Key
+
+Select Convai NPC Amelia
+
+In Convai NPC (Script):
+
+Paste your Character ID
+
+Play
+Connect a microphone
+
+Click ▶ Play
+
+Speak to the psychologist NPC
+
+Notes
+Uses Convai only (no custom LLM or RAG)
+
+One avatar: Psychologist (Amelia)
+
+Environment: Apartment Kit (Asset Store)
+
+Copier le code
+
+
+
+
+
+
+
+
+
+
+
+## ▶️ How to Use the `.unity` Scene
+
+### Requirements
+- Unity Hub  
+- Unity **2020.3+** or **Unity 6.x**
+- Convai account
+- Convai **API Key**
+- Convai **Unity Verified Solution** plugin
+
+---
+
+### Open the Project
+```bash
+git clone https://github.com/your-username/your-repo.git
+Open Unity Hub
+
+Click Open
+
+Select the project root folder (not the .unity file)
+
+Open the Scene
+Copier le code
+Assets/Convai/Demo/Scenes
+Double-click the .unity scene file.
+
+Convai Setup
+Go to:
+
+Copier le code
+Convai → Project Settings
+Paste your API Key
+
+Select Convai NPC Amelia
+
+In Convai NPC (Script):
+
+Paste your Character ID
+
+Play
+Connect a microphone
+
+Click ▶ Play
+
+Speak to the psychologist NPC
+
+Notes
+Uses Convai only (no custom LLM or RAG)
+
+One avatar: Psychologist (Amelia)
+
+Environment: Apartment Kit (Asset Store)
+
+Copier le code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ▶️ How to Use the `.unity` Scene
+
+### Requirements
+- Unity Hub  
+- Unity **2020.3+** or **Unity 6.x**
+- Convai account
+- Convai **API Key**
+- Convai **Unity Verified Solution** plugin
+
+---
+
+### Open the Project
+```bash
+git clone https://github.com/your-username/your-repo.git
+Open Unity Hub
+
+Click Open
+
+Select the project root folder (not the .unity file)
+
+Open the Scene
+swift
+Copier le code
+Assets/Convai/Demo/Scenes
+Double-click the .unity scene file.
+
+Convai Setup
+Go to:
+
+nginx
+Copier le code
+Convai → Project Settings
+Paste your API Key
+
+Select Convai NPC Amelia
+
+In Convai NPC (Script):
+
+Paste your Character ID
+
+Play
+Connect a microphone
+
+Click ▶ Play
+
+Speak to the psychologist NPC
+
+Notes
+Uses Convai only (no custom LLM or RAG)
+
+One avatar: Psychologist (Amelia)
+
+Environment: Apartment Kit (Asset Store)
